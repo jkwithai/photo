@@ -1,0 +1,47 @@
+{
+  "images": [
+    {
+      "src": "images/바다풍경.jpg",
+      "title": "바다풍경",
+      "category": "landscape",
+      "width": 6000,
+      "height": 8000
+    },
+    {
+      "src": "images/배경풍경.jpg",
+      "title": "배경풍경",
+      "category": "landscape",
+      "width": 7728,
+      "height": 5152
+    },
+    {
+      "src": "images/인물_아이유.jpg",
+      "title": "인물 아이유",
+      "category": "portrait",
+      "width": 1080,
+      "height": 2400
+    },
+    {
+      "src": "images/인물_아이유2.jpg",
+      "title": "인물 아이유2",
+      "category": "portrait",
+      "width": 736,
+      "height": 1308
+    },
+    {
+      "src": "images/작업1.png",
+      "title": "작업1",
+      "category": "work",
+      "width": 436,
+      "height": 601
+    },
+    {
+      "src": "images/작업2.png",
+      "title": "작업2",
+      "category": "work",
+      "width": 461,
+      "height": 549
+    }
+  ],
+  "total": 6
+}
