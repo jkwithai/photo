@@ -43,6 +43,13 @@
       "height": 549
     },
     {
+      "src": "images/풍경바다.png",
+      "title": "풍경바다",
+      "category": "landscape",
+      "width": 1152,
+      "height": 2048
+    },
+    {
       "src": "images/햇살풍경.jpg",
       "title": "햇살풍경",
       "category": "landscape",
@@ -50,5 +57,5 @@
       "height": 1308
     }
   ],
-  "total": 7
+  "total": 8
 }
