@@ -1,6 +1,13 @@
 {
   "images": [
     {
+      "src": "images/summer.jpg",
+      "title": "summer",
+      "category": "all",
+      "width": 510,
+      "height": 340
+    },
+    {
       "src": "images/바다풍경.jpg",
       "title": "바다풍경",
       "category": "landscape",
@@ -57,5 +64,5 @@
       "height": 1308
     }
   ],
-  "total": 8
+  "total": 9
 }
